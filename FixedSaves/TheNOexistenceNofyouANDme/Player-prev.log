@@ -1,0 +1,1417 @@
+AS: AutoStreaming module initializing.
+Loading player data from C:/Program Files (x86)/Steam/steamapps/common/The NOexistenceN of you AND me/TheNOexistenceNofyouANDme_Data/data.unity3d
+Initialize engine version: 2021.3.21f1c1 (08fa194de70f)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/The NOexistenceN of you AND me/TheNOexistenceNofyouANDme_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon 780M Graphics (ID=0x1900)
+    Vendor:   ATI
+    VRAM:     15768 MB
+    Driver:   32.0.13032.11
+<RI> Initializing input.
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.689000 ms
+Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sirenix.Serialization.UnitySerializationInitializer:Initialize()
+
+Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Sirenix.Serialization.ArchitectureInfo:SetRuntimePlatform(RuntimePlatform)
+Sirenix.Serialization.UnitySerializationInitializer:Initialize()
+
+canvas: 1760  990  rect: 1760  990  Screen: 1760  990
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RectScreenFit:DebugData()
+
+canvas: 1760  990  rect: 1760  990  Screen: 1760  990
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RectScreenFit:DebugData()
+
+不是第一次进入游戏  FirstPlaytulpa: False
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<OnEnable>d__1:MoveNext()
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+SteamScript:OnEnable()
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+last1760  990
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RectScreenFit:Awake()
+
+Last：1760  990
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RectScreenFit:FitScreen()
+RectScreenFit:Update()
+
+Screen: 1760  990
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RectScreenFit:FitScreen()
+RectScreenFit:Update()
+
+C:/Users/colas/AppData/LocalLow/Nino/TheNOexistenceNofyouANDme/NaninovelData/Saves/Settings.json
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Naninovel.<DeserializeDataAsync>d__20:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<ReadTextFileAsync>d__2:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+
+Received stats and achievements from Steam
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamStatsAndAchievements:OnUserStatsReceived(UserStatsReceived_t)
+Steamworks.Callback`1:OnRunCallback(IntPtr)
+Steamworks.CallbackDispatcher:RunFrame(Boolean)
+
+C:/Users/colas/AppData/LocalLow/Nino/TheNOexistenceNofyouANDme/NaninovelData/Saves/GlobalSave.json
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Naninovel.<DeserializeDataAsync>d__20:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<ReadTextFileAsync>d__2:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+
+Failed to initialize `G_CurrentEnd` variable with `` expression: Expression is missing.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Naninovel.CustomVariableManager:LogInitializeVarError(String, String, String)
+Naninovel.<>c__DisplayClass22_0:<ResetLocalVariables>b__0(String)
+Naninovel.ExpressionEvaluator:Evaluate(String, Type, Action`1)
+Naninovel.ExpressionEvaluator:Evaluate(String, Action`1)
+Naninovel.CustomVariableManager:ResetGlobalVariables()
+Naninovel.CustomVariableManager:LoadServiceStateAsync(GlobalStateMap)
+Naninovel.<LoadAllServicesFromStateAsync>d__87`2:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.StateManager:LoadAllServicesFromStateAsync(TState)
+Naninovel.<<PerformPostEngineInitializationTasks>g__LoadGlobalAsync|92_1>d:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadOrDefaultAsync>d__13:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadAsync>d__12:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<DeserializeDataAsync>d__20:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<ReadTextFileAsync>d__2:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+
+Custom variable `False` doesn't exist, but its value is requested in a script expression; this could lead to evaluation errors. Make sure to initialize variables with `@set` command or via `Custom Variables` configuration menu before using them.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Naninovel.ExpressionEvaluator:EvaluateExpressionParameter(String, ParameterArgs)
+Naninovel.NCalc.Domain.EvaluationVisitor:Visit(Identifier)
+Naninovel.NCalc.Expression:Evaluate()
+Naninovel.ExpressionEvaluator:Evaluate(String, Type, Action`1)
+Naninovel.ExpressionEvaluator:Evaluate(String, Action`1)
+Naninovel.CustomVariableManager:ResetLocalVariables()
+Naninovel.CustomVariableManager:InitializeLocalVariables()
+Naninovel.<InitializeAsync>d__48:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource:TrySetResult()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder:SetResult()
+Naninovel.<PerformPostEngineInitializationTasks>d__92:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource:TrySetResult()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder:SetResult()
+Naninovel.<<PerformPostEngineInitializationTasks>g__LoadGlobalAsync|92_1>d:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadOrDefaultAsync>d__13:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadAsync>d__12:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<DeserializeDataAsync>d__20:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<ReadTextFileAsync>d__2:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+
+Custom variable `False` doesn't exist, but its value is requested in a script expression; this could lead to evaluation errors. Make sure to initialize variables with `@set` command or via `Custom Variables` configuration menu before using them.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Naninovel.ExpressionEvaluator:EvaluateExpressionParameter(String, ParameterArgs)
+Naninovel.NCalc.Domain.EvaluationVisitor:Visit(Identifier)
+Naninovel.NCalc.Expression:Evaluate()
+Naninovel.ExpressionEvaluator:Evaluate(String, Type, Action`1)
+Naninovel.ExpressionEvaluator:Evaluate(String, Action`1)
+Naninovel.CustomVariableManager:ResetLocalVariables()
+Naninovel.CustomVariableManager:InitializeLocalVariables()
+Naninovel.<InitializeAsync>d__48:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource:TrySetResult()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder:SetResult()
+Naninovel.<PerformPostEngineInitializationTasks>d__92:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource:TrySetResult()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder:SetResult()
+Naninovel.<<PerformPostEngineInitializationTasks>g__LoadGlobalAsync|92_1>d:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadOrDefaultAsync>d__13:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadAsync>d__12:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<DeserializeDataAsync>d__20:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<ReadTextFileAsync>d__2:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+
+Custom variable `False` doesn't exist, but its value is requested in a script expression; this could lead to evaluation errors. Make sure to initialize variables with `@set` command or via `Custom Variables` configuration menu before using them.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Naninovel.ExpressionEvaluator:EvaluateExpressionParameter(String, ParameterArgs)
+Naninovel.NCalc.Domain.EvaluationVisitor:Visit(Identifier)
+Naninovel.NCalc.Expression:Evaluate()
+Naninovel.ExpressionEvaluator:Evaluate(String, Type, Action`1)
+Naninovel.ExpressionEvaluator:Evaluate(String, Action`1)
+Naninovel.CustomVariableManager:ResetLocalVariables()
+Naninovel.CustomVariableManager:InitializeLocalVariables()
+Naninovel.<InitializeAsync>d__48:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource:TrySetResult()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder:SetResult()
+Naninovel.<PerformPostEngineInitializationTasks>d__92:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource:TrySetResult()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder:SetResult()
+Naninovel.<<PerformPostEngineInitializationTasks>g__LoadGlobalAsync|92_1>d:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadOrDefaultAsync>d__13:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadAsync>d__12:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<DeserializeDataAsync>d__20:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<ReadTextFileAsync>d__2:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+
+Shader 'ScreenInterfere': fallback shader 'True' not found
+Shader 'ScreenInterfere_2': fallback shader 'True' not found
+1
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CustomCGGalleryPanel:HandleVisibilityChanged(Boolean)
+Naninovel.ScriptableUIBehaviour:SetVisibility(Boolean)
+Naninovel.UI.CustomUI:Awake()
+CustomCGGalleryPanel:Awake()
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform)
+Naninovel.Engine:Instantiate(T, String, Nullable`1, Transform)
+Naninovel.UIManager:InstantiatePrefab(GameObject, String, String)
+Naninovel.<InstantiateUIsAsync>d__57:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadAndHoldAllAsync>d__5`1:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadAllAsync>d__23:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<WhenAll>d__56`1:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.<RunTask>d__6:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadResourceAsync>d__31`1:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.ResourceRunner`1:SetResult(TResult)
+Naninovel.<RunAsync>d__6:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+2
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CustomCGGalleryPanel:HandleVisibilityChanged(Boolean)
+Naninovel.ScriptableUIBehaviour:SetVisibility(Boolean)
+Naninovel.UI.CustomUI:Awake()
+CustomCGGalleryPanel:Awake()
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform)
+Naninovel.Engine:Instantiate(T, String, Nullable`1, Transform)
+Naninovel.UIManager:InstantiatePrefab(GameObject, String, String)
+Naninovel.<InstantiateUIsAsync>d__57:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadAndHoldAllAsync>d__5`1:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadAllAsync>d__23:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<WhenAll>d__56`1:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.<RunTask>d__6:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadResourceAsync>d__31`1:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.ResourceRunner`1:SetResult(TResult)
+Naninovel.<RunAsync>d__6:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+UnBindInput
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MoviePanel:SetInputState(Boolean)
+CustomCGGalleryPanel:HandleVisibilityChanged(Boolean)
+Naninovel.ScriptableUIBehaviour:SetVisibility(Boolean)
+Naninovel.UI.CustomUI:Awake()
+CustomCGGalleryPanel:Awake()
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform)
+Naninovel.Engine:Instantiate(T, String, Nullable`1, Transform)
+Naninovel.UIManager:InstantiatePrefab(GameObject, String, String)
+Naninovel.<InstantiateUIsAsync>d__57:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadAndHoldAllAsync>d__5`1:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadAllAsync>d__23:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<WhenAll>d__56`1:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.<RunTask>d__6:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadResourceAsync>d__31`1:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.ResourceRunner`1:SetResult(TResult)
+Naninovel.<RunAsync>d__6:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+3
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CustomCGGalleryPanel:HandleVisibilityChanged(Boolean)
+Naninovel.ScriptableUIBehaviour:SetVisibility(Boolean)
+Naninovel.UI.CustomUI:Awake()
+CustomCGGalleryPanel:Awake()
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform)
+Naninovel.Engine:Instantiate(T, String, Nullable`1, Transform)
+Naninovel.UIManager:InstantiatePrefab(GameObject, String, String)
+Naninovel.<InstantiateUIsAsync>d__57:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadAndHoldAllAsync>d__5`1:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadAllAsync>d__23:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<WhenAll>d__56`1:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.<RunTask>d__6:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadResourceAsync>d__31`1:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.ResourceRunner`1:SetResult(TResult)
+Naninovel.<RunAsync>d__6:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+TitleMenu Show
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Naninovel.UI.TitleMenu:Show()
+Naninovel.UIManager:ShowVisibleOnAwake()
+Naninovel.<InstantiateUIsAsync>d__57:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadAndHoldAllAsync>d__5`1:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadAllAsync>d__23:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<WhenAll>d__56`1:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.<RunTask>d__6:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<LoadResourceAsync>d__31`1:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.ResourceRunner`1:SetResult(TResult)
+Naninovel.<RunAsync>d__6:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+UnityEngine.AsyncOperation:InvokeCompletionEvent()
+
+The character with Unicode value \u65E5 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [LogLabel].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u5FD7 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [LogLabel].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u8BBE was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [SettingsLabel].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u7F6E was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [SettingsLabel].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u8FD4 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [NavigationReturnLabel].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u56DE was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [NavigationReturnLabel].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u8FD4 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u56DE was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u8FD4 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [NavigationReturnLabel].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u56DE was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [NavigationReturnLabel].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u4F60 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u4E0D was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u662F was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u65F6 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u5149 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u673A was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u5668 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u4F60 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (1)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u662F was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (1)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u70E4 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (1)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u7BB1 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (1)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u4F60 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (2)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u5E76 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (2)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u975E was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (2)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u4E0D was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (2)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u662F was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (2)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u4E00 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (2)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u4E2A was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (2)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u70E4 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (2)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u7BB1 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (2)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u4F60 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (3)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u9664 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (3)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u4E86 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (3)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u70E4 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (3)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u7BB1 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (3)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u8FD8 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (3)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u80FD was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (3)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u662F was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (3)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u4EC0 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (3)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u4E48 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (3)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u5462 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (3)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u4F60 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (4)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u4ECE was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (4)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u6765 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (4)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u90FD was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (4)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u662F was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (4)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u70E4 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (4)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+The character with Unicode value \u7BB1 was not found in the [LiberationSans SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [Text (TMP) (4)].
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+TMPro.TextMeshProUGUI:SetArraySizes(UnicodeChar[])
+TMPro.TextMeshProUGUI:OnPreRenderCanvas()
+TMPro.TextMeshProUGUI:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.UI.ScrollRect:LateUpdate()
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 16484.
+Total: 18.804000 ms (FindLiveObjects: 2.645900 ms CreateObjectMapping: 1.985800 ms MarkObjects: 14.085800 ms  DeleteObjects: 0.086100 ms)
+
+当前结局：G_END1
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Naninovel.UI.TitleMenu:SetBackground()
+Naninovel.UI.<ChangeVisibilityAsync>d__23:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource:TrySetResult()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder:SetResult()
+Naninovel.<ChangeVisibilityAsync>d__64:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource:TrySetResult()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder:SetResult()
+Naninovel.<TweenAsync>d__21:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.Async.Internal.ContinuationQueue:RunCore()
+
+play
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Naninovel.UI.<OnButtonClick>d__11:MoveNext()
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+Naninovel.UI.TitleCustomEnterGameButton:OnButtonClick()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ReleaseMouse(PointerEventData, GameObject)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+TitleMenu Hide
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Naninovel.UI.<OnButtonClick>d__11:MoveNext()
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+
+无存档，开启新档
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Naninovel.UI.<OnButtonClick>d__11:MoveNext()
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+
+1
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CustomCGGalleryPanel:HandleVisibilityChanged(Boolean)
+Naninovel.<ChangeVisibilityAsync>d__64:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.ScriptableUIBehaviour:ChangeVisibilityAsync(Boolean, Nullable`1, AsyncToken)
+Naninovel.ScriptableUIBehaviour:Hide()
+Naninovel.<ResetStateAsync>d__77:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.StateManager:ResetStateAsync(Type[], Func`1[])
+Naninovel.<ResetStateAsync>d__76:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.StateManager:ResetStateAsync(String[], Func`1[])
+Naninovel.UI.<OnButtonClick>d__11:MoveNext()
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+
+2
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CustomCGGalleryPanel:HandleVisibilityChanged(Boolean)
+Naninovel.<ChangeVisibilityAsync>d__64:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.ScriptableUIBehaviour:ChangeVisibilityAsync(Boolean, Nullable`1, AsyncToken)
+Naninovel.ScriptableUIBehaviour:Hide()
+Naninovel.<ResetStateAsync>d__77:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.StateManager:ResetStateAsync(Type[], Func`1[])
+Naninovel.<ResetStateAsync>d__76:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.StateManager:ResetStateAsync(String[], Func`1[])
+Naninovel.UI.<OnButtonClick>d__11:MoveNext()
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+
+UnBindInput
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MoviePanel:SetInputState(Boolean)
+CustomCGGalleryPanel:HandleVisibilityChanged(Boolean)
+Naninovel.<ChangeVisibilityAsync>d__64:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.ScriptableUIBehaviour:ChangeVisibilityAsync(Boolean, Nullable`1, AsyncToken)
+Naninovel.ScriptableUIBehaviour:Hide()
+Naninovel.<ResetStateAsync>d__77:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.StateManager:ResetStateAsync(Type[], Func`1[])
+Naninovel.<ResetStateAsync>d__76:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.StateManager:ResetStateAsync(String[], Func`1[])
+Naninovel.UI.<OnButtonClick>d__11:MoveNext()
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+
+3
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+CustomCGGalleryPanel:HandleVisibilityChanged(Boolean)
+Naninovel.<ChangeVisibilityAsync>d__64:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.ScriptableUIBehaviour:ChangeVisibilityAsync(Boolean, Nullable`1, AsyncToken)
+Naninovel.ScriptableUIBehaviour:Hide()
+Naninovel.<ResetStateAsync>d__77:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.StateManager:ResetStateAsync(Type[], Func`1[])
+Naninovel.<ResetStateAsync>d__76:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.StateManager:ResetStateAsync(String[], Func`1[])
+Naninovel.UI.<OnButtonClick>d__11:MoveNext()
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+
+Custom variable `False` doesn't exist, but its value is requested in a script expression; this could lead to evaluation errors. Make sure to initialize variables with `@set` command or via `Custom Variables` configuration menu before using them.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Naninovel.ExpressionEvaluator:EvaluateExpressionParameter(String, ParameterArgs)
+Naninovel.NCalc.Domain.EvaluationVisitor:Visit(Identifier)
+Naninovel.NCalc.Expression:Evaluate()
+Naninovel.ExpressionEvaluator:Evaluate(String, Type, Action`1)
+Naninovel.ExpressionEvaluator:Evaluate(String, Action`1)
+Naninovel.CustomVariableManager:ResetLocalVariables()
+Naninovel.Engine:Reset(Type[])
+Naninovel.<ResetStateAsync>d__77:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<ShowAsync>d__2:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource:TrySetResult()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder:SetResult()
+Naninovel.<ChangeVisibilityAsync>d__64:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource:TrySetResult()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder:SetResult()
+Naninovel.<TweenAsync>d__21:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.Async.Internal.ContinuationQueue:RunCore()
+
+Custom variable `False` doesn't exist, but its value is requested in a script expression; this could lead to evaluation errors. Make sure to initialize variables with `@set` command or via `Custom Variables` configuration menu before using them.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Naninovel.ExpressionEvaluator:EvaluateExpressionParameter(String, ParameterArgs)
+Naninovel.NCalc.Domain.EvaluationVisitor:Visit(Identifier)
+Naninovel.NCalc.Expression:Evaluate()
+Naninovel.ExpressionEvaluator:Evaluate(String, Type, Action`1)
+Naninovel.ExpressionEvaluator:Evaluate(String, Action`1)
+Naninovel.CustomVariableManager:ResetLocalVariables()
+Naninovel.Engine:Reset(Type[])
+Naninovel.<ResetStateAsync>d__77:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<ShowAsync>d__2:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource:TrySetResult()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder:SetResult()
+Naninovel.<ChangeVisibilityAsync>d__64:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource:TrySetResult()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder:SetResult()
+Naninovel.<TweenAsync>d__21:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.Async.Internal.ContinuationQueue:RunCore()
+
+Custom variable `False` doesn't exist, but its value is requested in a script expression; this could lead to evaluation errors. Make sure to initialize variables with `@set` command or via `Custom Variables` configuration menu before using them.
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Naninovel.ExpressionEvaluator:EvaluateExpressionParameter(String, ParameterArgs)
+Naninovel.NCalc.Domain.EvaluationVisitor:Visit(Identifier)
+Naninovel.NCalc.Expression:Evaluate()
+Naninovel.ExpressionEvaluator:Evaluate(String, Type, Action`1)
+Naninovel.ExpressionEvaluator:Evaluate(String, Action`1)
+Naninovel.CustomVariableManager:ResetLocalVariables()
+Naninovel.Engine:Reset(Type[])
+Naninovel.<ResetStateAsync>d__77:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource`1:TrySetResult(T)
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:SetResult(T)
+Naninovel.<ShowAsync>d__2:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource:TrySetResult()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder:SetResult()
+Naninovel.<ChangeVisibilityAsync>d__64:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.UniTaskCompletionSource:TrySetResult()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder:SetResult()
+Naninovel.<TweenAsync>d__21:MoveNext()
+Naninovel.Async.CompilerServices.MoveNextRunner`1:Run()
+Naninovel.Async.Internal.ContinuationQueue:RunCore()
+
+已解锁过此成就：G_Achievement_2
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<UnlockAchievement>d__0:MoveNext()
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+AchievementManager:UnlockAchievement(Achievement)
+Naninovel.UI.<OnButtonClick>d__11:MoveNext()
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.WorkRequest:Invoke()
+UnityEngine.UnitySynchronizationContext:Exec()
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 16597.
+Total: 16.363200 ms (FindLiveObjects: 1.921600 ms CreateObjectMapping: 0.651900 ms MarkObjects: 13.760100 ms  DeleteObjects: 0.029000 ms)
+
+Setting up 8 worker threads for Enlighten.
+Curl error 42: Callback aborted
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 18 frames, [1.0 KB-2.0 KB]: 1 frames, [2.0 KB-4.0 KB]: 1 frames, [4.0 KB-8.0 KB]: 2 frames, [8.0 KB-16.0 KB]: 1231 frames, [16.0 KB-32.0 KB]: 176 frames, [32.0 KB-64.0 KB]: 15 frames, [64.0 KB-128.0 KB]: 2 frames, [128.0 KB-256.0 KB]: 1 frames, [0.5 MB-1.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 3 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 4.0 MB
+      Peak Allocated Bytes 2.1 MB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 104.0 KB
+      Peak Allocated Bytes 103.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 0.5 MB
+      Peak Allocated Bytes 509.9 KB
+      Overflow Count 289
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 68 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 8
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 68 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 15
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 1.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 68 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_CloudJob.Worker 0] x 2
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 4.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 6066
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 3.9 MB
+      Failed Allocations. Bucket layout:
+        16B: 24 Subsections = 24576 buckets. Failed count: 850
+        32B: 20 Subsections = 10240 buckets. Failed count: 2063
+        48B: 38 Subsections = 12970 buckets. Failed count: 7379
+        64B: 34 Subsections = 8704 buckets. Failed count: 3048
+        80B: 62 Subsections = 12697 buckets. Failed count: 0
+        96B: 27 Subsections = 4608 buckets. Failed count: 484
+        112B: 31 Subsections = 4534 buckets. Failed count: 4676
+        128B: 20 Subsections = 2560 buckets. Failed count: 5405
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [32.0 MB-64.0 MB]: 1451 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 44.9 MB
+      Peak Large allocation bytes 16.0 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [0.5 MB-1.0 MB]: 1 frames, [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 18 frames, [8.0 MB-16.0 MB]: 6 frames, [16.0 MB-32.0 MB]: 436 frames, [32.0 MB-64.0 MB]: 988 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 51.7 MB
+      Peak Large allocation bytes 40.1 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 2
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 6
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 5
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 3.9 MB
+      Failed Allocations. Bucket layout:
+        16B: 24 Subsections = 24576 buckets. Failed count: 850
+        32B: 20 Subsections = 10240 buckets. Failed count: 2063
+        48B: 38 Subsections = 12970 buckets. Failed count: 7379
+        64B: 34 Subsections = 8704 buckets. Failed count: 3048
+        80B: 62 Subsections = 12697 buckets. Failed count: 0
+        96B: 27 Subsections = 4608 buckets. Failed count: 484
+        112B: 31 Subsections = 4534 buckets. Failed count: 4676
+        128B: 20 Subsections = 2560 buckets. Failed count: 5405
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [64.0 KB-128.0 KB]: 24 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 2 frames, [0.5 MB-1.0 MB]: 1424 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 0.7 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [1.0 KB-2.0 KB]: 13 frames, [64.0 MB-128.0 MB]: 4 frames, [128.0 MB-256.0 MB]: 1434 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 161.0 MB
+      Peak Large allocation bytes 144.0 MB
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 38
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 3.9 MB
+      Failed Allocations. Bucket layout:
+        16B: 24 Subsections = 24576 buckets. Failed count: 850
+        32B: 20 Subsections = 10240 buckets. Failed count: 2063
+        48B: 38 Subsections = 12970 buckets. Failed count: 7379
+        64B: 34 Subsections = 8704 buckets. Failed count: 3048
+        80B: 62 Subsections = 12697 buckets. Failed count: 0
+        96B: 27 Subsections = 4608 buckets. Failed count: 484
+        112B: 31 Subsections = 4534 buckets. Failed count: 4676
+        128B: 20 Subsections = 2560 buckets. Failed count: 5405
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 1450 frames, [32.0 MB-64.0 MB]: 1 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 6
+      Peak Allocated memory 33.8 MB
+      Peak Large allocation bytes 12.9 MB
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [128.0 KB-256.0 KB]: 10 frames, [256.0 KB-0.5 MB]: 1 frames, [0.5 MB-1.0 MB]: 3 frames, [8.0 MB-16.0 MB]: 1 frames, [16.0 MB-32.0 MB]: 4 frames, [32.0 MB-64.0 MB]: 1432 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 2
+      Peak Allocated memory 48.6 MB
+      Peak Large allocation bytes 44.9 MB
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 3.9 MB
+      Failed Allocations. Bucket layout:
+        16B: 24 Subsections = 24576 buckets. Failed count: 850
+        32B: 20 Subsections = 10240 buckets. Failed count: 2063
+        48B: 38 Subsections = 12970 buckets. Failed count: 7379
+        64B: 34 Subsections = 8704 buckets. Failed count: 3048
+        80B: 62 Subsections = 12697 buckets. Failed count: 0
+        96B: 27 Subsections = 4608 buckets. Failed count: 484
+        112B: 31 Subsections = 4534 buckets. Failed count: 4676
+        128B: 20 Subsections = 2560 buckets. Failed count: 5405
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [2.0 KB-4.0 KB]: 27 frames, [32.0 KB-64.0 KB]: 1424 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 47.6 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [1.0 KB-2.0 KB]: 11 frames, [2.0 KB-4.0 KB]: 1 frames, [8.0 KB-16.0 KB]: 1439 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 13.0 KB
+      Peak Large allocation bytes 0 B
